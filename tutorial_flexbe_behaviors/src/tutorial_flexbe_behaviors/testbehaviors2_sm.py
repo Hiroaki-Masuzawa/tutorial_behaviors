@@ -9,7 +9,7 @@
 
 from flexbe_core import Behavior, Autonomy, OperatableStateMachine, ConcurrencyContainer, PriorityContainer, Logger
 from tutorial_flexbe_states.multi_divided import MultiDividedState
-from tutorial_flexbe_states.sub_state_a import SubState
+from tutorial_flexbe_states.sub_state import SubState
 # Additional imports can be added inside the following tags
 # [MANUAL_IMPORT]
 
