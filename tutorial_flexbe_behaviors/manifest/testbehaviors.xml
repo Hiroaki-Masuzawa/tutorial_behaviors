@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="TestBehaviors">
+
+	<executable package_path="tutorial_flexbe_behaviors.testbehaviors_sm" class="TestBehaviorsSM" />
+	<tagstring></tagstring>
+	<author>H. M</author>
+	<date>Wed Jun 28 2023</date>
+	<description>
+		Test
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
